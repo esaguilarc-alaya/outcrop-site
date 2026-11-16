@@ -1,0 +1,1 @@
+window.OUTCROP_SITE = {"appOrigin": "https://app.outcrop.me", "signInPath": "/login", "signInEnabled": false, "earlyAccessUrl": "mailto:curious@alayacrafts.com?subject=Early%20access%20to%20Outcrop"};
